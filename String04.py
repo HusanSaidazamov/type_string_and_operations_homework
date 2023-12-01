@@ -1,4 +1,4 @@
-def main(s):
+def main():
     """
     Given the string "s". add a double quote on both sides, beginning and end.
     Args:
@@ -13,4 +13,4 @@ def main(s):
      """
     
     return '"s"'
-print(main('python'))
+print(main())
