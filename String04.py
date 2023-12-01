@@ -11,6 +11,6 @@ def main(s):
      Qaytaradi:
          str: javobni qaytarish.
      """
-    s = "s"
+    
     return s
-print(main())
+print(main("python"))
