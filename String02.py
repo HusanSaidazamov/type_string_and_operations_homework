@@ -1,4 +1,4 @@
-def main(a):
+def main():
     """
     Return a string consisting only of uppercase.
     Args:
@@ -12,5 +12,5 @@ def main(a):
          str: javobni qaytarish.
     """
    
-    return a
-print(main("CODESCHOOLUZ"))
+    return "CODESCHOOLUZ"
+print(main())
