@@ -13,4 +13,4 @@ def main(s):
      """
     
     return '"'+s+'"'
-print(main("python"))
+print(main('python'))
