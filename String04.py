@@ -12,5 +12,5 @@ def main(s):
          str: javobni qaytarish.
      """
     
-    return '"'+s+'"'
+    return '"s"'
 print(main('python'))
