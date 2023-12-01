@@ -14,5 +14,5 @@ def main(s1,s2):
          str: javobni qaytarish.
     """
     
-    return s1+s2
+    return s1+" "+s2
 print(main("123","456"))
