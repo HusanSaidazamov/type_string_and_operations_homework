@@ -1,4 +1,4 @@
-def main(a):
+def main():
     """
     "*" Return a string that consists of only this character and is five in length.
     Args:
@@ -13,4 +13,4 @@ def main(a):
     """
     
     return "*****"
-print(main("*****"))
+print(main())
