@@ -1,4 +1,4 @@
-def main(a):
+def main():
     """"Return an optional string of length eight
     Args:
         None
@@ -11,5 +11,5 @@ def main(a):
          str: javobni qaytarish.
     """
     
-    return a
-print(main("12345678"))
+    return "12345678"
+print(main())
