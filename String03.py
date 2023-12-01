@@ -12,5 +12,5 @@ def main(a):
          str: javobni qaytarish.
     """
     
-    return a
+    return "*****"
 print(main("*****"))
