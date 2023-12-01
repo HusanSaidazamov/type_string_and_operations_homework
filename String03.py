@@ -1,4 +1,4 @@
-def main():
+def main(a):
     """
     "*" Return a string that consists of only this character and is five in length.
     Args:
@@ -12,5 +12,5 @@ def main():
          str: javobni qaytarish.
     """
     
-    return "*****"
-print(main())
+    return '"'+a+'"'
+print(main("*****"))
