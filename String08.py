@@ -6,5 +6,13 @@ def main(first,last):
         last: str
     Returns:
         str: return answer.
+        Ikki qator berilgan, birinchi_ism va familiya, "oxirgi, birinchi" formatida bitta qatorni qaytaring.
+     Args:
+         birinchi: ko'cha
+         oxirgi: ko'cha
+     Qaytaradi:
+         str: javobni qaytarish.
     """
-    return 
+    last=last+","+first
+    return last
+print(main("Otabek","Tursunov"))
