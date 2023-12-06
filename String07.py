@@ -11,5 +11,5 @@ def main():
      Qaytaradi:
          str: javobni qaytarish.
     """
-    return 0
+    return ""
 print(main())
